@@ -1,3 +1,5 @@
+package hw1;
+
 public class VariableTime {
     private int hours;
     private int minutes;

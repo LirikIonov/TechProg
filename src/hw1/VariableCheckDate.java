@@ -1,3 +1,5 @@
+package hw1;
+
 public class VariableCheckDate {
     private int day;
     private int month;

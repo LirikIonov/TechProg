@@ -1,3 +1,5 @@
+package hw1;
+
 public class RectanglePoints {
     double x1;
     double y1;

@@ -1,4 +1,5 @@
-import java.text.SimpleDateFormat;
+package hw1;
+
 import java.time.Duration;
 import java.time.LocalDate;
 

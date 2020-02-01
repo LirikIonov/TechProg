@@ -1,3 +1,5 @@
+package hw1;
+
 import java.time.Duration;
 import java.time.LocalDate;
 

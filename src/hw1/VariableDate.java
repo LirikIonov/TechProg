@@ -1,3 +1,5 @@
+package hw1;
+
 public class VariableDate {
     private int day;
     private int month;
