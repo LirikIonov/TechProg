@@ -17,7 +17,7 @@ public class AwesomeConfig {
     }
 
     @Bean
-    public OperationController operationService(OperationModel operationModel) {
+    public OperationController operationController(OperationModel operationModel) {
         return new OperationController(operationModel);
     }
 
